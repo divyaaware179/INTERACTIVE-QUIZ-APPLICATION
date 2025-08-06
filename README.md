@@ -55,4 +55,4 @@ This project helped improve my understanding of how to manage data structures in
 
 Conclusion
 
-The Interactive Quiz Application is a beginner-friendly but highly practical project that combines design and logic. It serves as a strong demonstration of essential front-end development skills and can be enhanced further with advanced features like a timer, login system, database integration, or question randomization. Hosting the project online through GitHub Pages makes it easy to share with others or include in a portfolio for future opportunities.====
+The Interactive Quiz Application is a beginner-friendly but highly practical project that combines design and logic. It serves as a strong demonstration of essential front-end development skills and can be enhanced further with advanced features like a timer, login system, database integration, or question randomization. Hosting the project online through GitHub Pages makes it easy to share with others or include in a portfolio for future opportunities.
