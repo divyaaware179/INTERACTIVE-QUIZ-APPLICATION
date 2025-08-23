@@ -58,4 +58,9 @@ Conclusion-
 The Interactive Quiz Application is a beginner-friendly but highly practical project that combines design and logic. It serves as a strong demonstration of essential front-end development skills and can be enhanced further with advanced features like a timer, login system, database integration, or question randomization. Hosting the project online through GitHub Pages makes it easy to share with others or include in a portfolio for future opportunities.
 
 OUTPUT-
+[<img width="1366" height="661" alt="Image" src="https://github.com/user-attachments/assets/ee6c80d3-7240-448f-85ac-52fe81c63eaf" />
+
+<img width="1366" height="657" alt="Image" src="https://github.com/user-attachments/assets/ad3d69df-647c-45b2-96e7-216d37e35809" />
+
+<img width="1366" height="654" alt="Image" src="https://github.com/user-attachments/assets/6de06b7b-ec62-4b86-bcae-b4199bbf100f" />]
 
